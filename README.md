@@ -1,12 +1,19 @@
-# React + Vite
+# Ecommerce   
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Online Demo](https://ecommerce-wine-eta.vercel.app/)
 
-Currently, two official plugins are available:
+- Developed by Reza Geshani                  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Created - 2025-09-19
 
-## Expanding the ESLint configuration
+- Technologies Used - TailwindCSS v4 , Headless UI , React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Role - Frontend
+
+- How to reach me : with my [instagram](https://www.instagram.com/rezageshani_web) and [linkedin](http://www.linkedin.com/in/reza-geshani-web)
+
+<img width="1350" height="639" alt="1" src="https://github.com/user-attachments/assets/76c7f54f-8719-4ac2-ad5f-47fd84f4afcb" />
+
+<img width="1348" height="637" alt="2" src="https://github.com/user-attachments/assets/ddabd781-1432-44f0-aa7f-155a6ef3f409" />
+
+<img width="1350" height="637" alt="3" src="https://github.com/user-attachments/assets/88c124bd-1230-44ff-a331-4858d1161110" />
