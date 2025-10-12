@@ -6,7 +6,7 @@ import { DarkModeProvier } from "./context/DarkModeProvider";
 
 function App() {
   return (
-    <div className="bg-app-bg">
+    <div className="bg-app-bg min-h-screen">
       <DarkModeProvier>
         <Routes>
           <Route index element={<Home />} />
