@@ -6,7 +6,7 @@
 
 - Created - 2025-09-19      
 
-- Technologies Used - TailwindCSS v4 , Headless UI , React  
+- Technologies Used - TailwindCSS v4 , Headless UI , React       
 
 - Role - Frontend
 
